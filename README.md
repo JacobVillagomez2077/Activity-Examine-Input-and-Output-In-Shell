@@ -4,12 +4,12 @@
 </p>
 
 <h1>Activity Examine Input and Output In Shell Lab 3 & 4</h1>
-This tutorial outlines the Google Cybersecuirty Lab 3 & 4.<br />
+This tutorial outlines the Google Cybersecurity Lab 3 & 4.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: Final Google Cyber Lab 3 & 4 Examine Input and Output In Shell](https://youtu.be/d_PlKEPZJE8)
 
 <h2>Environments and Technologies Used</h2>
 
